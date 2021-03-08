@@ -2,7 +2,7 @@
 
 [test.md](test.md)
 
-[a.md](fs/a.md)
+[a.md](MarkDown/三种注入方式.md)
 
 You can use the [editor on GitHub](https://github.com/15900318658/InTheSun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,9 +32,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/15900318658/InTheSun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
