@@ -506,7 +506,7 @@ public class AccountEmailServiceImpl implements AccountEmailService{
 <li>如果你使用的是构造器注入<br>当你有十几个甚至更多对象需要注入时，你的构造函数的参数个数可能会长到无法想像。</li><li>如果你使用的是field反射注入<br>如果不使用Spring框架，这个属性只能通过反射注入，太麻烦了！这根本不符合JavaBean规              范。 还有，当你不是用过Spring创建的对象时，还可能引起NullPointerException。 并且，你         不能用final修饰这个属性。</li><li>如果你使用的是setter方法注入<br>那么你将不能将属性设置为final。<br>两者取其轻</li><li>Spring3.0官方文档建议使用setter注入覆盖构造器注入。</li><li>Spring4.0官方文档建议使用构造器注入。</li></ol>
 <h2 id="-">结论</h2>
 <p>如果注入的属性是必选的属性，则通过构造器注入。<br>如果注入的属性是可选的属性，则通过setter方法注入。<br>至于field注入，不建议使用</p>
-<p><a href="https://15900318658.github.io/InTheSun/">回到首页</a></p>
+<p><a href="https://zoro-li.github.io/InTheSun/">回到首页</a></p>
 
 </body>
 </html>
