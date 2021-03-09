@@ -10,10 +10,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+[三种注入方式](MarkDown/三种注入方式.html)
+```
 
 ```markdown
-
-[三种注入方式](MarkDown/三种注入方式.html)
 
 # Header 1
 ## Header 2
