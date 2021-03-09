@@ -1,10 +1,7 @@
 ## Welcome 晓兵
 
-[test.md](test.md)
 
 [ssss](MarkDown/三种注入方式.html)
-
-[a.md](MarkDown/三种注入方式.md)
 
 You can use the [editor on GitHub](https://github.com/15900318658/InTheSun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
