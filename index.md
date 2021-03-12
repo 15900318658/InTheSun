@@ -15,6 +15,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 2、[MongoDB总结](MarkDown/mongoDB总结.html)
 
+3、[web页面集成vlc实现播放.ts](MarkDown/web页面集成vlc播放.html)
+
 ```markdown
 
 # Header 1
